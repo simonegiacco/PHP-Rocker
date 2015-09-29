@@ -1,5 +1,5 @@
 {
-    "name": "rocker/server",
+    "name": "phprocker/server",
     "description": "Boilerplate that helps you write RESTful web services on top of Slim framework (https://github.com/victorjonsson/PHP-Rocker#php-rocker)",
     "minimum-stability": "dev",
     "homepage" : "https://github.com/victorjonsson/PHP-Rocker#php-rocker",
